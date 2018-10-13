@@ -1,0 +1,6 @@
+def main():
+	print 1
+
+def fun():
+	print 'fun'
+	
